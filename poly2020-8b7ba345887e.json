@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "poly2020",
+  "private_key_id": "8b7ba345887ecbd6983ecb04fa5ac044287ef629",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC41nKAwd9T00Ed\nahsOzwYxzBn8nfo6pdt/og4Oedp/MdlHlbeR9XRVMv6ZSVoh4jPuCOMFE56CH+LD\nnQ0N9G9JGUhF9pWYUTjJgc6HHIoEV0sbvxqIaL/wGmlaen01Md1bGKNFeveH1fw0\nGjfyBE5TnLwr1WilRKjw/HoZ2Y7K68BbOP5Hp3ezCUWtNS1Y5ITdsfLkETNvj0T+\nri2lBWXt57BkzpyMrF3ywkRvmPRHUuGKLYQHK41QMUcwXGArEzTrBBfFe0hq2Y/f\n7GnQrVpfUW7UY6CKL43xUME3XqAR9uRPh6CcNjmlUQsFoUkE2prYkM/JSV/bERRe\nzykcZN4lAgMBAAECggEAEHD213AnUtgAO0MUbBFLLkPG7fsJZo0ZRLWgBXaeUmEX\nQDBXl1KbifaSwgTN0STDVMGSnAF+QHngnGDMZ/jdq0Vl8d84uEdFQ1taCRenSTKQ\nmkO58vdKV2uqAmPR3lj0pSVAZK5G9Vy55dKNNmhepT5UWJvPhp/gXStAGyuIcZE3\nJJ4A3WKjNIX3OU2BTGCNVAQJS+nMdGAajcvHqkxSDXKHrFXTH8J0FBPiUiWT3jqb\nnDz2RegEOv0h8NY1iGw5UlYDj5hx9ZT2NLGAIu8WGDu5a7yVGASpgnjZeL1hQgSR\nDGHNJKRs2vSOlWPKFHNlYxLpHbel8J/pmK1u1mQgwwKBgQDaGYS8quKbBZWx4pLO\nlYGK6ug0CPCyeM914vYLjItgeRuO2HH2MuiuWnCV/GSAE0+xGpxduy0q1lQ3hC/+\n82RUAqzC/fBUbrXRVvqk8D9yTlePY9yvLF/A43uwCdYCUCG3zC+KvxJIemPHB8/s\nY/R5tmmqoCAJibjZ5M7pVnH9qwKBgQDY9ThwoLiguiKhxDwRFWG3PTquGtIk3gt0\neRbFUpkkL0bpMJo95WjKNLNUd7uI1F4ZdAsItEcwZCdeJjSTVxe8XjcO+PJIGiMB\nziUL+izpZESb0BXITUnh3RfitlskjrOvpOxiQXXSJbRwPNzeaFDqMpX6Ka1Fh8iC\nHoaPqVyjbwKBgQDDJbIvXngEXarjz+esEPooYqgCZz13c8Gtqbad/tN3LuYJmoHd\n2Q95clLq4TrLnnvf6/+dnq17dutEAXMwnHdY9EvA7Zbs9WKaPUln68/ZZ1/RXXlJ\nBFtpLCKwERz8VNbWrkybyPuC/n/oxoS073sArMc/dKc14ZUU4jaBcmfsoQKBgDao\nuRpu83TS0CzPIo7vQxoGHAWHDlBpfJtQcnMuFxTtsEDJlOJpLJhc5J0wORgE4Nwq\nxyjfOlwvr1dh6rcAJyO23Mox3+BYbV9kDyNQWQZH050ptIMtLaLwr7bXWGkCZrSm\nqUMr2MIj66ynOMHzqAcIzY4j99pflh1qEV6aPZOTAoGAMSWngtX5Ir9noboYR1u0\ncXyC2tePpH+yKnOS7k9cqKFvNaiZms0HzpnNz956UsyOE3JUzAR0K/nrO5gSP6HP\nId+6V2HWB5Nnfttg/CAB+NylDwLgEbdv9NHUKYB02woMtO0nuJLQP+v7hQQlvt65\nxzqrYL54eV7rFhh6yH8tzbY=\n-----END PRIVATE KEY-----\n",
+  "client_email": "polymtl2020@poly2020.iam.gserviceaccount.com",
+  "client_id": "112840834681116252897",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/polymtl2020%40poly2020.iam.gserviceaccount.com"
+}

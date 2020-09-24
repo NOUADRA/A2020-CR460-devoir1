@@ -7,7 +7,7 @@ resource "google_compute_instance" "canard" {
   boot_disk {
     initialize_params {
       image = "debian-cloud/debian-9"
-    }
+  }
   }
 
   network_interface {
@@ -16,7 +16,6 @@ resource "google_compute_instance" "canard" {
 
     }
   }
-
 
   metadata_startup_script = "apt-get -y update && apt-get -y upgrade && apt-get -y install apache2 && systemctl start apache2"
 }
